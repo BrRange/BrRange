@@ -1,4 +1,5 @@
 <h1>Introduction</h1>
+https://qr.expo.dev/eas-update?updateId=c434af88-3a91-4137-ae3d-2fb25a6a038c
 Hi, I'm an aspiring developer eager to learn more in the ways of making <b><i>code</b></i>.<br>
 I've helped a friend making a simple 2D <b>java</b> game and I am also making a game in <b>cpp</b> with the <i>SDL2</i> library.<br>
 <hr>
